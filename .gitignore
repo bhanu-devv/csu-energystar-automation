@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac files
+.DS_Store
+
+# Virtual environments
+.venv/
+venv/
+
+# Private project data - do not upload
+input/
+output/
+logs/
+config/
+
+# Sensitive file types
+*.pdf
+*.xlsx
+*.xls
+*.xlsm
+*.env
+
+# Keep public demo/documentation folders
+!sample_data/
+!docs/
+
+ø
+

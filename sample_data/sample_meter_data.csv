@@ -1,0 +1,4 @@
+building_code,meter_name,utility_type,start_date,end_date,usage,total_cost
+BH,Sample Steam Meter,Steam,2026-01-01,2026-01-31,12500,4300.50
+MC,Sample Electric Meter,Electric,2026-01-01,2026-01-31,8500,2100.75
+WH,Sample Chilled Water Meter,Chilled Water,2026-01-01,2026-01-31,420,980.25
