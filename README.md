@@ -65,32 +65,24 @@ csu-energystar-automation/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-```
 
-## How to Run
+How to Run
 
 Install dependencies:
 
-```bash
 pip install -r requirements.txt
-```
 
 Run the main script:
 
-```bash
 python3 src/main.py
-```
 
 Run upload-ready row generation:
 
-```bash
 python3 src/upload_ready_rows.py
-```
+Repository Privacy
 
-## Repository Privacy
+This repository contains code and anonymized sample data only. Real utility bills, CSU internal records, account numbers, building costs, login credentials, and production files are excluded using .gitignore.
 
-This repository contains code and anonymized sample data only. Real utility bills, CSU internal records, account numbers, building costs, login credentials, and production files are excluded using `.gitignore`.
-
-## Project Impact
+Project Impact
 
 This project improves utility data tracking by reducing manual entry errors, identifying data quality issues before upload, and supporting consistent campus energy reporting.
