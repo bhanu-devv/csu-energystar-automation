@@ -64,7 +64,7 @@ csu-energystar-automation/
 ├── sample_data/
 ├── README.md
 ├── requirements.txt
-└── .gitignore 
+└── .gitignore
 ```
 
 ## How to Run
